@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,gCAAU,GAAG;IAClB,OAAO,eAAe,CAAC;CAC1B;AAED,cAAc,GAAG;gBACb,gCAAU;CACb,CAAC","sources":["src/index.js"],"sourcesContent":["function helloWorld() {\n    return 'Hello, World!';\n}\n\nmodule.exports = {\n    helloWorld,\n};"],"names":[],"version":3,"file":"index.js.map"}
