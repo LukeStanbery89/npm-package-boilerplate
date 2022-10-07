@@ -1,3 +1,5 @@
+'use strict';
+
 const { helloWorld } = require('../../src/index');
 
 test('Hello, World!', () => {
