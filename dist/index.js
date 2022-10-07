@@ -1,2 +1,2 @@
-module.exports={helloWorld:function(){return"Hello, World!"}};
+"use strict";module.exports={helloWorld:function(){return"Hello, World!"}};
 //# sourceMappingURL=index.js.map

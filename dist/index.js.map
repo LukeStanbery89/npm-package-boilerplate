@@ -1,1 +1,1 @@
-{"mappings":"AAIAA,OAAAC,QAAiB,C,WAJjB,WACI,MAAO,e","sources":["src/index.js"],"sourcesContent":["function helloWorld() {\n    return 'Hello, World!';\n}\n\nmodule.exports = {\n    helloWorld,\n};"],"names":["module","exports"],"version":3,"file":"index.js.map"}
+{"mappings":"AAAA,aAMAA,OAAAC,QAAiB,C,WAJjB,WACI,MAAO,e","sources":["src/index.js"],"sourcesContent":["'use strict';\n\nfunction helloWorld() {\n    return 'Hello, World!';\n}\n\nmodule.exports = {\n    helloWorld,\n};"],"names":["module","exports"],"version":3,"file":"index.js.map"}
