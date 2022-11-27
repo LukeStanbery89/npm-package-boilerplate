@@ -8,5 +8,5 @@ Boilerplate package for creating a new NPM package.
 Install using the follow command:
 
 ```
-npm install @lukestanbery/{PACKAGE_NAME}
+npm install {USER_OR_ORG}/{PACKAGE_NAME}
 ```
