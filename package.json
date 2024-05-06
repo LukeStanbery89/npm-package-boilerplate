@@ -1,5 +1,5 @@
 {
-    "name": "@lukestanbery/ledger",
+    "name": "npm-package-boilerplate",
     "version": "0.1.0",
     "description": "A simple logger module.",
     "source": "src/index.ts",
