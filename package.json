@@ -1,7 +1,7 @@
 {
     "name": "npm-package-boilerplate",
     "version": "0.1.0",
-    "description": "A simple logger module.",
+    "description": "A template repository for npm packages.",
     "source": "src/index.ts",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
