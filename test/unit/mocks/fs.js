@@ -1,6 +1,7 @@
-'use strict';
+"use strict";
 
-const fs = jest.createMockFromModule('fs');
+// eslint-disable-next-line no-undef
+const fs = jest.createMockFromModule("fs");
 
 // This is a custom function that our tests can use during setup to specify
 // what the files on the "mock" filesystem should look like when any of the
