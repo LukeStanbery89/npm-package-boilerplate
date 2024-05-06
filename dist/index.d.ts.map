@@ -1,0 +1,1 @@
+{"mappings":"AAAA,qCAEC","sources":["src/src/index.ts","src/index.ts"],"sourcesContent":[null,"function helloWorld() {\n    return \"Hello, World!\";\n}\n\nexport {\n    helloWorld,\n};\n"],"names":[],"version":3,"file":"index.d.ts.map"}

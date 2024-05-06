@@ -1,13 +1,19 @@
 {
+    "preset": "ts-jest",
     "verbose": true,
     "testEnvironment": "node",
     "notify": true,
+    "moduleFileExtensions": ["ts", "js", "json"],
     "coveragePathIgnorePatterns": [
         "/node_modules/",
         "<rootDir>/dist/",
         "<rootDir>/test/"
     ],
+    "testRegex": "/test/.*\\.test.(jsx?|tsx?)$",
     "moduleNameMapper": {
         "fs": "<rootDir>/test/unit/mocks/fs.js"
+    },
+    "transform": {
+        "^.+\\.(ts|tsx)$": "ts-jest"
     }
 }
